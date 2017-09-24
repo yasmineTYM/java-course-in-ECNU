@@ -1,0 +1,46 @@
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\Interop.WMPLib.dll
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\AxInterop.WMPLib.dll
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.ResolveComReference.cache
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\bin\Debug\Interop.WMPLib.dll
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\bin\Debug\AxInterop.WMPLib.dll
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.Form1.resources
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.Properties.Resources.resources
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.GenerateResource.Cache
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+G:\大二上\Web应用开发\项目报告\期末项目\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.ResolveComReference.cache
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.Form1.resources
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.Properties.Resources.resources
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.Login.resources
+C:\Users\ASUS\Documents\Tencent Files\872964789\FileRecv\FinalWork1\FinalWork\FinalWork\obj\Debug\FinalWork.Newuser.resources
+D:\C#\FinalWork\FinalWork\bin\Debug\FinalWork.exe.config
+D:\C#\FinalWork\FinalWork\obj\Debug\Interop.WMPLib.dll
+D:\C#\FinalWork\FinalWork\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.ResolveComReference.cache
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.exe
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.pdb
+D:\C#\FinalWork\FinalWork\bin\Debug\FinalWork.exe
+D:\C#\FinalWork\FinalWork\bin\Debug\FinalWork.pdb
+D:\C#\FinalWork\FinalWork\bin\Debug\Interop.WMPLib.dll
+D:\C#\FinalWork\FinalWork\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.csprojResolveAssemblyReference.cache
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.Form1.resources
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.Login.resources
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.Newuser.resources
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.Properties.Resources.resources
+D:\C#\FinalWork\FinalWork\obj\Debug\FinalWork.csproj.GenerateResource.Cache
